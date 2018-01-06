@@ -18,5 +18,24 @@
   "bugs": {
     "url": "https://github.com/simors/lvyii_third_party_oauth/issues"
   },
-  "homepage": "https://github.com/simors/lvyii_third_party_oauth#readme"
+  "homepage": "https://github.com/simors/lvyii_third_party_oauth#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.5",
+    "connect-timeout": "^1.9.0",
+    "debug": "^3.1.0",
+    "jsonwebtoken": "^8.1.0",
+    "querystring": "^0.2.0",
+    "redis": "^2.8.0",
+    "underscore": "^1.8.3",
+    "wechat-oauth": "^1.2.1"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.16.2",
+    "mocha": "^4.1.0",
+    "should": "^13.2.0",
+    "supertest": "^3.0.0"
+  }
 }
