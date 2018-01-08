@@ -1,6 +1,6 @@
 {
   "name": "lvyii_third_party_oauth",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "OAuth2.0 for third party platform",
   "main": "index.js",
   "scripts": {
